@@ -9,7 +9,7 @@ The interaction with the chatbot will be done through voice, and it will also re
 
 In this project, I utilized the Anaconda distribution of Python and Visual Studio Code as my preferred code editor.
 
-<details><summary><b>Show instructions</b></summary>
+<b>Show instructions</b>
 
 1. Install the requirements:
 
@@ -36,4 +36,4 @@ https://www.youtube.com/watch?v=nafDyRsVnXU
 
 
 ### Demonstration Videos
-
+[video](https://drive.google.com/file/d/1sNGFRiLfybfgSFGOIHAsMOJBrpSegI5x/view?usp=sharing)
